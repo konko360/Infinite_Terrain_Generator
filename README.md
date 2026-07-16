@@ -4,7 +4,7 @@
 
 程序仅由原生 HTML、CSS、JavaScript 和 Canvas 2D 构成，无需安装、构建、服务器或外部资源。
 
-![](C:\Users\konko\AppData\Roaming\marktext\images\2026-07-16-16-14-34-image.png)
+![\images\image1.png]
 
 ## 主要功能
 
@@ -69,9 +69,9 @@ http://localhost:8080/Infinite_Terrain_Generator.html
 
 浏览器会根据 Seed、分辨率、块尺寸和地形参数生成独立的 `localStorage` 存档。建议定期导出 JSON 世界记录进行备份。
 
-![](C:\Users\konko\AppData\Roaming\marktext\images\2026-07-16-16-17-27-image.png)
+![\images\image2.png]
 
-## ![](C:\Users\konko\AppData\Roaming\marktext\images\2026-07-16-16-19-00-image.png)
+![\images\image3.png]
 
 ## 导出
 
